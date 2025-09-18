@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+shap
+lime
+streamlit
+plotly
+matplotlib
+joblib
+sqlalchemy
+xgboost   # optional, if you use XGBoost
